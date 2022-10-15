@@ -23,9 +23,9 @@ Related Paper: [Linear MPC for Lane Keeping and Obstacle Avoidance on Low Curvat
 
 <p align="center">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="http://AtaberkOKLU.github.io/Linear-MPC-Lanekeeping-ObstacleAvoidance/Tests/ObstacleAvoidance/obs3_dark.png">
-		<source media="(prefers-color-scheme: light)" srcset="http://AtaberkOKLU.github.io/Linear-MPC-Lanekeeping-ObstacleAvoidance/Tests/ObstacleAvoidance/obs3.svg">
-		<img alt="FlowCharts" src="http://AtaberkOKLU.github.io/Linear-MPC-Lanekeeping-ObstacleAvoidance/Tests/ObstacleAvoidance/obs3.svg">
+		<source media="(prefers-color-scheme: dark)" srcset="https://AtaberkOKLU.github.io/Linear-MPC-Lanekeeping-ObstacleAvoidance/Tests/ObstacleAvoidance/obs3_dark.png">
+		<source media="(prefers-color-scheme: light)" srcset="https://AtaberkOKLU.github.io/Linear-MPC-Lanekeeping-ObstacleAvoidance/Tests/ObstacleAvoidance/obs3.svg">
+		<img alt="FlowCharts" src="https://AtaberkOKLU.github.io/Linear-MPC-Lanekeeping-ObstacleAvoidance/Tests/ObstacleAvoidance/obs3.svg">
 	</picture>
 </p>
 
@@ -33,8 +33,8 @@ Related Paper: [Linear MPC for Lane Keeping and Obstacle Avoidance on Low Curvat
 
 <p align="center">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="http://AtaberkOKLU.github.io/Linear-MPC-Lanekeeping-ObstacleAvoidance/Tests/ObstacleAvoidance/obs3_states_dark.png">
-		<source media="(prefers-color-scheme: light)" srcset="http://AtaberkOKLU.github.io/Linear-MPC-Lanekeeping-ObstacleAvoidance/Tests/ObstacleAvoidance/obs3_states.svg">
-		<img alt="FlowCharts" src="http://AtaberkOKLU.github.io/Linear-MPC-Lanekeeping-ObstacleAvoidance/Tests/ObstacleAvoidance/obs3_states.svg">
+		<source media="(prefers-color-scheme: dark)" srcset="https://AtaberkOKLU.github.io/Linear-MPC-Lanekeeping-ObstacleAvoidance/Tests/ObstacleAvoidance/obs3_states_dark.png">
+		<source media="(prefers-color-scheme: light)" srcset="https://AtaberkOKLU.github.io/Linear-MPC-Lanekeeping-ObstacleAvoidance/Tests/ObstacleAvoidance/obs3_states.svg">
+		<img alt="FlowCharts" src="https://AtaberkOKLU.github.io/Linear-MPC-Lanekeeping-ObstacleAvoidance/Tests/ObstacleAvoidance/obs3_states.svg">
 	</picture>
 </p>
